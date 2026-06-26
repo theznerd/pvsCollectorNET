@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="pvsCollector.Data/pvsCollector.Data.csproj" Id="06bbf05e-8992-4b3e-8685-4b91e1a502e4" />
+  <Project Path="pvsCollectorService/pvsCollectorService.csproj" />
+</Solution>
